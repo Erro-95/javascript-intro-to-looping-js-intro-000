@@ -9,7 +9,7 @@ function forLoop(array){
 
 function whileLoop(n){
   while (num > 0){
-    console.log(num)
+    console.log(`${num}`)
     num -= 1
   }
   console.log('done')
